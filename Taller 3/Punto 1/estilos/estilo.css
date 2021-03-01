@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+#content-imagen{
+	margin:0 auto;
+	width: 10%;
+	height: auto;
+}
+
+.titulos{
+	background: blue; 
+	color: white;
+}
+
+.tabla{
+	border: 1px solid black; 
+	border-collapse: collapse; 
+	background: blue;
+	color:white;
+}
+
+.tr-th-tabla{
+	border: 1px solid black; 
+	border-collapse: collapse; 
+}
+
+
+

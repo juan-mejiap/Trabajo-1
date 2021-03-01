@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+.content-banner{
+	display: flex;
+	justify-content: space-between;
+}
+
+.imagen-banner{
+	width: 9%;
+	height: 100%;
+	margin-left: 5%;
+}
+
+.text-banner{
+	margin:5% auto;
+}
+
+.content-info{
+	display: flex;
+	justify-content: space-between; 
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+
+.content-img{
+	margin:5% auto;
+	width: 60%;
+	height: 33.3%;
+	
+}
+
+.imagen{
+	width: 30%;
+	cursor: pointer;
+}
+
+.historia{
+	padding: 10%;
+}
+
+.info-pie{
+	margin:10% auto;
+	width: 40%;
+	height: auto;
+}
+
+
+
+
+
